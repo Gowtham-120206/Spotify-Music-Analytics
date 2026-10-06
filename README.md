@@ -42,10 +42,6 @@ The dashboard provides a clear view of streaming performance and helps identify:
 - Year-wise streaming trends
 - Overall music popularity
 
-🖥️ Dashboard Preview
-
-![Spotify Dashboard](Spotify_Dashboard.png)
-
 📂 Project Files
 
 - `Spotify_Music_Analytics.pbix` – Power BI dashboard file
